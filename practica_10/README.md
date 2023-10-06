@@ -1,4 +1,7 @@
+
 # practica_10
+
+![Alt text](image.png)
 
 A new Flutter project.
 
